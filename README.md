@@ -12,36 +12,31 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
   
 ## PROCEDURE
+Open Autodesk Fusion 360 software.
+Create a new design by clicking on File → New Design
+Select the required plane (XY Plane) to start the sketch.
+Click on Create Sketch.
+<img width="477" height="652" alt="Screenshot 2026-11-16 020014" src="https://github.com/user-attachments/assets/ae7f382f-a5f6-4913-846e-942fb5551c1a" />
+Use Modify tools such as Fillet,Chamfer,Trim,Extend,break,offset to draw the given 2D sketch
+<img width="203" height="260" alt="Screenshot 2026-11-16 014635" src="https://github.com/user-attachments/assets/71af6595-48aa-4bac-950b-9b5560dba8a0" />
+Apply the required dimensions using the Dimension (D) tool.
+<img width="307" height="52" alt="Screenshot 2026-11-16 015805" src="https://github.com/user-attachments/assets/e02bb4e8-708a-4b7e-8dd0-e74fdf00d954" />
+Check the sketch and ensure all dimensions are correct.
+Click on Finish Sketch to complete the drawing.
+<img width="871" height="86" alt="Screenshot 2026-11-16 020243" src="https://github.com/user-attachments/assets/ed3b1471-80e1-4410-a108-f1c0fbf2a029" />
+Save the design with a suitable file name.
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
-
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
 
 ## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+<img width="1023" height="652" alt="Screenshot 2026-11-16 021123" src="https://github.com/user-attachments/assets/750c80ce-9bcd-4e11-bec0-904b189742e1" />
+
+
+
+
 
 ## OUTPUT
+<img width="1080" height="661" alt="Screenshot 2026-11-16 021420" src="https://github.com/user-attachments/assets/8f17fcaf-eab8-4a40-8bca-4bdd26e4e2a2" />
 
 
 ## RESULT
